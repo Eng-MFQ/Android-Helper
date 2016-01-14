@@ -1,0 +1,15 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <ProgressBar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/progressBarCircularIndeterminate"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:progressBackgroundTint="?attr/colorPrimary"
+        android:layout_gravity="center"
+        android:background="?attr/colorPrimary" />
+</FrameLayout>
